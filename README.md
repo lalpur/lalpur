@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![lalpur stats](https://github-readme-stats.lalpur.vercel.app/api?username=lalpur&show_icons=true)
 <!--
 **lalpur/lalpur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
